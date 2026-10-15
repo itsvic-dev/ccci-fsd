@@ -1,4 +1,4 @@
-//! Modem NVRAM file service for the MT6739 CCCI `ccci_fs` port (see docs/CCCI-FS.md).
+//! Modem NVRAM file service for the MT6739 CCCI `ccci_fs` port (see CCCI-FS.md in nixos-agm-m7).
 
 use std::collections::HashMap;
 use std::ffi::CString;
